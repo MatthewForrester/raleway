@@ -18,3 +18,4 @@ Nhung Nguyen <vns.wonderland@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
 Ivan Petrov <malamaka@yandex.ru>
 Caleb Maclennan <caleb@alerque.com>
+Matthew Forrester (Matthew at the International Simutrans Forum, <https://forum.simutrans.com/>)

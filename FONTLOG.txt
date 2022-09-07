@@ -34,6 +34,10 @@ https://github.com/theleagueof/raleway
 
 ChangeLog
 
+7 September 2022 (Matthew Forrester)
+- Used otf2bdf to add a 15-point BDF bitmap version for Simutrans user zook
+- Name of that file is "Railway BDF" because "Raleway" is a Reserved Font Name
+
 29 August 2020 (Caleb Maclennan) v4.101
 - Repackage so license files get distributed properly
 

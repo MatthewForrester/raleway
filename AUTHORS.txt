@@ -10,3 +10,4 @@ Pablo Impallari <impallari@gmail.com>
 Rodrigo Fuenzalida <hello@rfuenzalida.com>
 Alexei Vanyashin <a@cyreal.org>
 Caleb Maclennan <caleb@alerque.com>
+Matthew Forrester (Matthew at the International Simutrans Forum, <https://forum.simutrans.com/>)
